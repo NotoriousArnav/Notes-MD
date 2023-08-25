@@ -38,24 +38,24 @@
    - Clear communication channels and a well-defined hierarchy facilitate efficient information flow.
 
 ## 10. Order
-    - The order principle emphasizes the organization and arrangement of resources, materials, and personnel.
-    - A well-organized workplace reduces wastage of time, effort, and resources.
+- The order principle emphasizes the organization and arrangement of resources, materials, and personnel.
+- A well-organized workplace reduces wastage of time, effort, and resources.
 
 ## 11. Equity
-    - Equity entails treating all employees fairly and impartially.
-    - Discrimination and favoritism should be avoided to create a harmonious work environment.
+- Equity entails treating all employees fairly and impartially.
+- Discrimination and favoritism should be avoided to create a harmonious work environment.
 
 ## 12. Stability of Tenure of Personnel
-    - Employees' job security and stability should be maintained whenever possible.
-    - High employee turnover can disrupt productivity and morale.
+- Employees' job security and stability should be maintained whenever possible.
+- High employee turnover can disrupt productivity and morale.
 
 ## 13. Initiative
-    - Encouraging employees to take initiative and contribute their ideas fosters innovation and continuous improvement.
-    - Initiative leads to creative problem-solving and enhances employee engagement.
+- Encouraging employees to take initiative and contribute their ideas fosters innovation and continuous improvement.
+- Initiative leads to creative problem-solving and enhances employee engagement.
 
 ## 14. Esprit de Corps
-    - Esprit de corps refers to building a sense of unity, teamwork, and camaraderie among employees.
-    - A positive team spirit enhances cooperation, communication, and overall organizational performance.
+- Esprit de corps refers to building a sense of unity, teamwork, and camaraderie among employees.
+- A positive team spirit enhances cooperation, communication, and overall organizational performance.
 
 These principles collectively form a comprehensive framework for effective management and organizational success.
 
