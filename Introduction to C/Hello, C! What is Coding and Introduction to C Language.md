@@ -18,7 +18,7 @@ Programming languages act as an intermediary between humans and computers, makin
 
 C language was developed by Dennis Ritchie in 1972 while he was working at AT&T's Bell Laboratories. Before C, programming languages like B and BCPL were in use, but they had limitations. C gained popularity rapidly in the tech industry due to its simplicity and effectiveness.
 
-## Course Content
+## Course (1st semester) Content
 
 This course is designed to take you from a beginner to an expert level in C programming. It's structured to ensure a smooth learning curve:
 
