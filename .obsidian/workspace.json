@@ -16,24 +16,24 @@
             }
           },
           {
-            "id": "39240efd79d920bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to C/Hello, C! What is Coding and Introduction to C Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "97725f883b3927ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7db09ff270618cc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to C/CodeSrc/README.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md",
+                "file": "Introduction to C/CodeSrc/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md",
+                "file": "Introduction to C/CodeSrc/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md"
+                "file": "Introduction to C/CodeSrc/README.md.md"
               }
             }
           }
@@ -167,10 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97725f883b3927ab",
+  "active": "7db09ff270618cc3",
   "lastOpenFiles": [
-    "Introduction to C/Hello, C! What is Coding and Introduction to C Language.md",
     "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md",
+    "Introduction to C/CodeSrc/README.md.md",
+    "Introduction to C/CodeSrc/a.out",
+    "Introduction to C/CodeSrc/himom.c",
+    "Introduction to C/CodeSrc",
+    "Introduction to C/Hello, C! What is Coding and Introduction to C Language.md",
     "Principles of Management/Evolution_of_management_theories.md",
     "Introduction to C",
     "Principles of Management/BCA, BBA, BCOM-Principals of Management.pdf",
