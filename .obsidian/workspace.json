@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to C/CodeSrc/README.md.md",
+                "file": "Introduction to C/CodeSrc/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to C/CodeSrc/README.md.md",
+                "file": "Introduction to C/CodeSrc/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to C/CodeSrc/README.md.md",
+                "file": "Introduction to C/CodeSrc/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to C/CodeSrc/README.md.md"
+                "file": "Introduction to C/CodeSrc/README.md"
               }
             }
           }
@@ -170,7 +170,7 @@
   "active": "7db09ff270618cc3",
   "lastOpenFiles": [
     "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md",
-    "Introduction to C/CodeSrc/README.md.md",
+    "Introduction to C/CodeSrc/README.md",
     "Introduction to C/CodeSrc/a.out",
     "Introduction to C/CodeSrc/himom.c",
     "Introduction to C/CodeSrc",
