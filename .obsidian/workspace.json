@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to C/Basic Structure of a C Program.md",
+                "file": "Introduction to C/Operators in C.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1b2b8dbbf8894241",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to C/Basic Structure of a C Program.md",
+                "file": "Introduction to C/Operators in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to C/Basic Structure of a C Program.md",
+                "file": "Introduction to C/Operators in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,16 +121,15 @@
             }
           },
           {
-            "id": "05e34483e9eec282",
+            "id": "bf1f769da173cbe1",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Introduction to C/Basic Structure of a C Program.md"
-              }
+              "type": "chatbot-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,10 +148,13 @@
   },
   "active": "38b3c1f3dd0d48a7",
   "lastOpenFiles": [
+    "Introduction to C/Introduction To C.md",
+    "Introduction to C/Operators in C.md",
+    "Operators in C-answer.md",
+    "Introduction to C/Basic Structure of a C Program.md",
     "Introduction to C/Hello, C! What is Coding and Introduction to C Language.md",
     "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md",
     "Introduction to C/Variables and Data Types in C.md",
-    "Introduction to C/Basic Structure of a C Program.md",
     "Principles of Management/Evolution_of_management_theories.md",
     "Principles of Management/Fayols_14_Principles_of_management.md",
     "Introduction to C/CodeSrc/README.md",
