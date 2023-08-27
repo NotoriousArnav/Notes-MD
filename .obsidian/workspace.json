@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e565ae6c8af5fa15",
+        "id": "1b4ac2853a657c95",
         "type": "tabs",
         "children": [
           {
-            "id": "d8fffcabd1951e79",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "97725f883b3927ab",
+            "id": "38b3c1f3dd0d48a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7db09ff270618cc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to C/CodeSrc/README.md",
+                "file": "Introduction to C/Basic Structure of a C Program.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to C/CodeSrc/README.md",
+                "file": "Introduction to C/Basic Structure of a C Program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to C/CodeSrc/README.md",
+                "file": "Introduction to C/Basic Structure of a C Program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to C/CodeSrc/README.md"
+                "file": "Introduction to C/Basic Structure of a C Program.md"
               }
             }
           }
@@ -167,15 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7db09ff270618cc3",
+  "active": "38b3c1f3dd0d48a7",
   "lastOpenFiles": [
+    "Introduction to C/Hello, C! What is Coding and Introduction to C Language.md",
     "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md",
+    "Introduction to C/Variables and Data Types in C.md",
+    "Introduction to C/Basic Structure of a C Program.md",
+    "Principles of Management/Evolution_of_management_theories.md",
+    "Principles of Management/Fayols_14_Principles_of_management.md",
     "Introduction to C/CodeSrc/README.md",
     "Introduction to C/CodeSrc/a.out",
     "Introduction to C/CodeSrc/himom.c",
     "Introduction to C/CodeSrc",
-    "Introduction to C/Hello, C! What is Coding and Introduction to C Language.md",
-    "Principles of Management/Evolution_of_management_theories.md",
     "Introduction to C",
     "Principles of Management/BCA, BBA, BCOM-Principals of Management.pdf",
     "README.md"

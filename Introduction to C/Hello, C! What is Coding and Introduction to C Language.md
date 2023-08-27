@@ -1,13 +1,3 @@
-```c
-#include<stdio.h>
-#include<conio.h>
-
-void main() {
-	clrscr();
-	print('Hello, World!');
-	getch();
-}
-```
 ## What is Coding?
 
 Coding is the process of communicating with a computer by providing instructions. Computers are essentially dumb machines that need precise directions to perform tasks. We use different programming languages for this communication. Some languages are low-level, like Machine Language and C, which are closer to the computer's understanding. Others, like Python, are high-level and require more processing time to transfer commands to the computer's hardware.
@@ -34,5 +24,3 @@ The course also includes numerous exercises to test your skills and evaluate you
 ## Summary
 
 Taking this course seriously can turn you into an expert C programmer. Additionally, the knowledge gained in C programming will benefit you in learning other languages like C++ and Python, as they share similarities with C. Learning C is like having a solid foundation for about 60-70% of C++ as well.
-
-Remember to follow the course sequence for the best learning experience. Starting with the basics and progressively moving to more advanced topics will help you become a proficient programmer. Good luck with your studies!
