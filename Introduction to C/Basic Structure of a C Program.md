@@ -1,3 +1,7 @@
+---
+title: Introdiuction to C
+author: Arnav ghosh
+---
 # Basic Syntax of a C Program
 
 This tutorial focuses on understanding the fundamental syntax of a C program, essential for BCA 1st-semester students starting their programming journey.

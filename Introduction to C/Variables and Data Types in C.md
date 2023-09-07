@@ -1,3 +1,7 @@
+---
+title: Introduction to C
+author: Arnav ghosh
+---
 # Variables and Data Types in C - BCA 1st Semester Notes
 
 In this tutorial, we'll provide comprehensive notes on variables and data types in C for BCA 1st-semester students. Understanding these fundamental concepts is crucial for a strong foundation in programming.

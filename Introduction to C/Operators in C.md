@@ -1,3 +1,7 @@
+---
+title: Basic Structure of a C Program
+author: Arnav ghosh
+---
 # Operators in C
 Operators are essential elements of C programming that allow you to perform various operations on data. 
 ## Types of Operators

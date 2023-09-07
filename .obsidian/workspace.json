@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0a8f4fc2dadf05",
+        "id": "1cc550e376286885",
         "type": "tabs",
         "children": [
           {
-            "id": "3826dbf1ed828447",
+            "id": "f9ffbbece9d2f7a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Introduction to C/Basic Structure of a C Program.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Introduction to C/Basic Structure of a C Program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Introduction to C/Basic Structure of a C Program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +126,19 @@
               "type": "chatbot-view",
               "state": {}
             }
+          },
+          {
+            "id": "113c21b7d9f6256e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introduction to C/Basic Structure of a C Program.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,25 +155,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3826dbf1ed828447",
+  "active": "4fbd5402f9d7ea3e",
   "lastOpenFiles": [
-    "index.html",
-    "Principles.md",
-    "README.md",
-    "Introduction to C/Introduction To C.md",
-    "Introduction to C/Operators in C.md",
-    "Operators in C-answer.md",
-    "Introduction to C/Basic Structure of a C Program.md",
-    "Introduction to C/Hello, C! What is Coding and Introduction to C Language.md",
-    "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md",
+    "Business Management/BCA, BBA, BCOM-Principals of Management.pdf",
+    "Business Management/Evolution_of_management_theories.md",
+    "Business Management/README.md",
+    "Business Management/Role of Managers.md",
     "Introduction to C/Variables and Data Types in C.md",
-    "Principles of Management/Evolution_of_management_theories.md",
-    "Principles of Management/Fayols_14_Principles_of_management.md",
-    "Introduction to C/CodeSrc/README.md",
-    "Introduction to C/CodeSrc/a.out",
-    "Introduction to C/CodeSrc/himom.c",
-    "Introduction to C/CodeSrc",
-    "Introduction to C",
-    "Principles of Management/BCA, BBA, BCOM-Principals of Management.pdf"
+    "Introduction to C/Operators in C.md",
+    "Introduction to C/Introduction To C.md",
+    "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md",
+    "Introduction to C/Hello, C! What is Coding and Introduction to C Language.md",
+    "docs/src/index.md",
+    "docs/src/guide/using-vue.md",
+    "docs/src/config/README.md",
+    "Business Management/Fayols_14_Principles_of_management.md",
+    "docs/src/guide/README.md",
+    "docs/src/guide",
+    "docs/src/config",
+    "docs/src",
+    "docs/package.json",
+    "docs",
+    "package.json",
+    "node_modules/markdown-folder-to-html/lib/types.ts",
+    "node_modules/markdown-folder-to-html/lib/sort-by-preferences.ts",
+    "node_modules/markdown-folder-to-html/lib/render-page.ts",
+    "node_modules/markdown-folder-to-html/lib/render-nav.ts",
+    "node_modules/markdown-folder-to-html/README.md",
+    "node_modules/markdown-folder-to-html/CHANGELOG.md",
+    "node_modules/resolve/SECURITY.md",
+    "node_modules/shelljs/README.md",
+    "node_modules/shelljs/CHANGELOG.md",
+    "node_modules/markdown-it-anchor/README.md",
+    "node_modules/markdown-it-anchor/CHANGELOG.md",
+    "node_modules/is-core-module/README.md",
+    "node_modules/linkify-it/README.md",
+    "node_modules/is-core-module/CHANGELOG.md",
+    "node_modules/markdown-it/README.md",
+    "node_modules/glob/README.md",
+    "out/node_modules/undici/docs/assets/lifecycle-diagram.png",
+    "out/public/favicon.svg",
+    "out/public/blog-placeholder-about.jpg",
+    "out/public/blog-placeholder-5.jpg",
+    "out/public/blog-placeholder-4.jpg",
+    "out/public/blog-placeholder-3.jpg",
+    "out/public/blog-placeholder-2.jpg",
+    "out/public/blog-placeholder-1.jpg"
   ]
 }

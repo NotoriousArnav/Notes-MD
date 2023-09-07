@@ -1,8 +1,9 @@
-# Introduction To C
+---
+title: Introduction to C
+author: Apporva Pradhan
+---
 
-| Title| Author| Date|
-| ----- | ----- | ------ |
-| Introduction To C|[@ApurvaPradhan](https://github.com/ApurvaPradhan)|   26 August, 2023 |
+# Introduction To C
 
 ## Prerequisites
 
@@ -16,11 +17,10 @@ Before you begin, ensure you have met the following requirements:
 C is a procedural programming language initially developed by Dennis Ritchie in the year 1972 at Bell Laboratories of AT&T Labs. It was mainly developed as a system programming language to write the UNIX operating system.
 
 If a person learns C programming first, it will help him to learn any modern programming language as well. As learning C help to understand a lot of the underlying architecture of the operating system. Like pointers, working with memory locations, etc.
+
 ## 2. Basic Structure of a C program
 
-  ### Hello, World
-
-  
+### Hello, World
 
 ```c
 

@@ -1,3 +1,7 @@
+---
+title: Introduction to C
+author: Arnav ghosh
+---
 ## What is Coding?
 
 Coding is the process of communicating with a computer by providing instructions. Computers are essentially dumb machines that need precise directions to perform tasks. We use different programming languages for this communication. Some languages are low-level, like Machine Language and C, which are closer to the computer's understanding. Others, like Python, are high-level and require more processing time to transfer commands to the computer's hardware.

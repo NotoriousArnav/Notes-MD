@@ -1,3 +1,7 @@
+---
+title: Introduction to C
+author: Arnav ghosh
+---
 ## Understanding IDE and Compiler
 
 - **IDE**: Stands for Integrated Development Environment. It's an advanced text editor that helps you write efficient code by highlighting syntax and providing error notifications. For this tutorial series, VS Code is recommended.
