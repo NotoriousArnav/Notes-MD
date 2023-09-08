@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to C/Basic Structure of a C Program.md",
+                "file": "Priciples of Management/Fayols_14_Principles_of_management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to C/Basic Structure of a C Program.md",
+                "file": "Priciples of Management/Fayols_14_Principles_of_management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to C/Basic Structure of a C Program.md",
+                "file": "Priciples of Management/Fayols_14_Principles_of_management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to C/Basic Structure of a C Program.md"
+                "file": "Priciples of Management/Fayols_14_Principles_of_management.md"
               }
             }
           }
@@ -155,21 +155,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fbd5402f9d7ea3e",
+  "active": "f9ffbbece9d2f7a5",
   "lastOpenFiles": [
+    "Business Management/Fayols_14_Principles_of_management.md",
+    "Priciples of Management/Role of Managers.md",
+    "Priciples of Management/README.md",
+    "Priciples of Management/Plan.md",
+    "Priciples of Management/Fayols_14_Principles_of_management.md",
+    "Priciples of Management/Evolution_of_management_theories.md",
+    "Priciples of Management/BCA, BBA, BCOM-Principals of Management.pdf",
+    "Priciples of Management",
     "Business Management/BCA, BBA, BCOM-Principals of Management.pdf",
     "Business Management/Evolution_of_management_theories.md",
-    "Business Management/README.md",
+    "C Programming/Introduction To C.md",
+    "Business Management/Plan.md",
+    "C Programming/Install & Configure VS Code With C Compiler (Tutorial).md",
+    "C Programming/Basic Structure of a C Program.md",
     "Business Management/Role of Managers.md",
-    "Introduction to C/Variables and Data Types in C.md",
-    "Introduction to C/Operators in C.md",
-    "Introduction to C/Introduction To C.md",
-    "Introduction to C/Install & Configure VS Code With C Compiler (Tutorial).md",
-    "Introduction to C/Hello, C! What is Coding and Introduction to C Language.md",
+    "C Programming/CodeSrc/README.md",
+    "C Programming/Hello, C! What is Coding and Introduction to C Language.md",
+    "Business Management/README.md",
+    "C Programming/Variables and Data Types in C.md",
+    "C Programming/Operators in C.md",
     "docs/src/index.md",
     "docs/src/guide/using-vue.md",
     "docs/src/config/README.md",
-    "Business Management/Fayols_14_Principles_of_management.md",
     "docs/src/guide/README.md",
     "docs/src/guide",
     "docs/src/config",
@@ -178,21 +188,11 @@
     "docs",
     "package.json",
     "node_modules/markdown-folder-to-html/lib/types.ts",
-    "node_modules/markdown-folder-to-html/lib/sort-by-preferences.ts",
-    "node_modules/markdown-folder-to-html/lib/render-page.ts",
-    "node_modules/markdown-folder-to-html/lib/render-nav.ts",
     "node_modules/markdown-folder-to-html/README.md",
     "node_modules/markdown-folder-to-html/CHANGELOG.md",
     "node_modules/resolve/SECURITY.md",
     "node_modules/shelljs/README.md",
     "node_modules/shelljs/CHANGELOG.md",
-    "node_modules/markdown-it-anchor/README.md",
-    "node_modules/markdown-it-anchor/CHANGELOG.md",
-    "node_modules/is-core-module/README.md",
-    "node_modules/linkify-it/README.md",
-    "node_modules/is-core-module/CHANGELOG.md",
-    "node_modules/markdown-it/README.md",
-    "node_modules/glob/README.md",
     "out/node_modules/undici/docs/assets/lifecycle-diagram.png",
     "out/public/favicon.svg",
     "out/public/blog-placeholder-about.jpg",

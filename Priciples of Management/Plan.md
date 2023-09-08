@@ -1,0 +1,1 @@
+A Plan is a predetermined course of action to achieve a specified goal. It is an intellectual process characterized by thinking Before Doing. Planning is deciding something in advance about what is to be done, when, where, how and by whom its to be done. It is the First and foremost function of management. It is the process of thinking about and organizing the 2
