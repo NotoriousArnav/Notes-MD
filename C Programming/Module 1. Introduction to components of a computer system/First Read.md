@@ -1,0 +1,5 @@
+- These notes are written based on our own understanding of the subject. Therefore, you may find things being noted in a different way compared to the notes  provided in our classes. 
+- I would strongly recommend that everyone goes through the hardcopy of the college notes first, as they are more than sufficient. They should be your primary reference.
+- However, if your thirst for knowledge doesn't stop there, feel free to read these notes.
+- We will cover these topics more in-depth while staying within the boundaries of our syllabus. 
+- I wish you a pleasant reading experience!!!
