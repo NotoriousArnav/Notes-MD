@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5a02fa09aea8dfc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,6 +147,16 @@
                 "file": "Priciples of Management/Plan.md"
               }
             }
+          },
+          {
+            "id": "15d33e7e47c06ef2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -155,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9ffbbece9d2f7a5",
+  "active": "d5a02fa09aea8dfc",
   "lastOpenFiles": [
     "Priciples of Management/Fayols_14_Principles_of_management.md",
     "Business Management/Fayols_14_Principles_of_management.md",
